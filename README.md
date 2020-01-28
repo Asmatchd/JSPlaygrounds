@@ -9,8 +9,7 @@
   npm start // visit localhost:8080
 ```
 
-### Contributing
+##Contributing
 
 Please do!
-
 
